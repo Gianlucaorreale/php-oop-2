@@ -1,6 +1,6 @@
 <?php
 
-class e_commerce 
+class Ecommerce 
 
 {
    public $product;
